@@ -12,3 +12,4 @@ Both of these queries use the date partition type. There are two other types of 
 "# My-Bigquery-DDL-DML-project-with-date-partitions" 
 "# My-Bigquery-DDL-DML-project-with-date-partition" 
 "# My-Bigquery-DDL-DML-project-with-date-partition" 
+"# My-Bigquery-DDL-DML-project-with-date-partition" 
