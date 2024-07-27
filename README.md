@@ -8,5 +8,7 @@ We'll look at two types of request:
 Both of these queries use the date partition type. There are two other types of partition, but we won't be looking at them in this little project:
 - partitioning by integer
 - partitioning by date ingestion
+
+  
 "# My-Bigquery-DDL-DML-project-with-date_partitions" 
 
