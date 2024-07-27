@@ -1,0 +1,1 @@
+# My-Bigquery-DDL-DML-project-with-partitions
